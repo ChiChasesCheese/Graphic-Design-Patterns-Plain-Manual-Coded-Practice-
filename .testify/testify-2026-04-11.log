@@ -1,0 +1,10 @@
+2026-04-11 01:04:42.944 [INFO] [RunID=1775894682943] processNotStarted called - executor=Run, runProfile=ApplicationConfiguration
+2026-04-11 01:04:42.945 [INFO] isTestExecution check - executorId=Run, actionName=Run
+2026-04-11 01:04:42.956 [INFO] Test execution detected by executorId: Run
+2026-04-11 01:04:42.956 [WARN] [RunID=1775894682943] Test execution not started (BUILD FAILURE DETECTED) - executor=Run, runProfile=Main
+2026-04-11 01:04:42.956 [INFO] [RunID=1775894682943] Build failure notification flag set
+2026-04-11 01:04:42.956 [INFO] [RunID=1775894682943] Build failure flag set via ExecutionFailureListener
+2026-04-11 01:04:42.958 [INFO] Extracting build error for Main
+2026-04-11 01:04:42.958 [INFO] No specific error found, using default message
+2026-04-11 01:04:42.958 [WARN] Build Failure Detected - executor=Run, runProfile=Main, error=null
+2026-04-11 01:04:42.966 [INFO] [RunID=1775894682943] Build failure notification sent, subsequent test events will be ignored for this run
