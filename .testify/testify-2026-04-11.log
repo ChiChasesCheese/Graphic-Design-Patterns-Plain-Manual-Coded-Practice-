@@ -18,3 +18,13 @@
 2026-04-11 18:45:02.476 [INFO] No specific error found, using default message
 2026-04-11 18:45:02.476 [WARN] Build Failure Detected - executor=Run, runProfile=Main, error=null
 2026-04-11 18:45:02.476 [INFO] [RunID=1775894682943] Build failure notification sent, subsequent test events will be ignored for this run
+2026-04-11 21:28:31.831 [INFO] [RunID=1775894682943] processNotStarted called - executor=Run, runProfile=ApplicationConfiguration
+2026-04-11 21:28:31.831 [INFO] isTestExecution check - executorId=Run, actionName=Run
+2026-04-11 21:28:31.831 [INFO] Test execution detected by executorId: Run
+2026-04-11 21:28:31.831 [WARN] [RunID=1775894682943] Test execution not started (BUILD FAILURE DETECTED) - executor=Run, runProfile=ch06_Prototype.Main
+2026-04-11 21:28:31.831 [INFO] [RunID=1775894682943] Build failure notification flag set
+2026-04-11 21:28:31.831 [INFO] [RunID=1775894682943] Build failure flag set via ExecutionFailureListener
+2026-04-11 21:28:31.831 [INFO] Extracting build error for ch06_Prototype.Main
+2026-04-11 21:28:31.831 [INFO] No specific error found, using default message
+2026-04-11 21:28:31.831 [WARN] Build Failure Detected - executor=Run, runProfile=ch06_Prototype.Main, error=null
+2026-04-11 21:28:31.832 [INFO] [RunID=1775894682943] Build failure notification sent, subsequent test events will be ignored for this run
