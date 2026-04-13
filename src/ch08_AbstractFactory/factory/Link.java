@@ -1,1 +1,10 @@
-package factory;
+package ch08_AbstractFactory.factory;
+
+public abstract class Link extends Item {
+    protected final String url;
+
+    public Link(String caption, String url) {
+        super(caption);
+        this.url = url;
+    }
+}

@@ -1,0 +1,20 @@
+2026-04-12 20:09:44.478 [INFO] [RunID=1775894682943] processNotStarted called - executor=Run, runProfile=ApplicationConfiguration
+2026-04-12 20:09:44.479 [INFO] isTestExecution check - executorId=Run, actionName=Run
+2026-04-12 20:09:44.479 [INFO] Test execution detected by executorId: Run
+2026-04-12 20:09:44.479 [WARN] [RunID=1775894682943] Test execution not started (BUILD FAILURE DETECTED) - executor=Run, runProfile=ch12_Decorator.Main
+2026-04-12 20:09:44.479 [INFO] [RunID=1775894682943] Build failure notification flag set
+2026-04-12 20:09:44.479 [INFO] [RunID=1775894682943] Build failure flag set via ExecutionFailureListener
+2026-04-12 20:09:44.479 [INFO] Extracting build error for ch12_Decorator.Main
+2026-04-12 20:09:44.479 [INFO] No specific error found, using default message
+2026-04-12 20:09:44.479 [WARN] Build Failure Detected - executor=Run, runProfile=ch12_Decorator.Main, error=null
+2026-04-12 20:09:44.479 [INFO] [RunID=1775894682943] Build failure notification sent, subsequent test events will be ignored for this run
+2026-04-12 20:11:36.905 [INFO] [RunID=1775894682943] processNotStarted called - executor=Run, runProfile=ApplicationConfiguration
+2026-04-12 20:11:36.905 [INFO] isTestExecution check - executorId=Run, actionName=Run
+2026-04-12 20:11:36.906 [INFO] Test execution detected by executorId: Run
+2026-04-12 20:11:36.906 [WARN] [RunID=1775894682943] Test execution not started (BUILD FAILURE DETECTED) - executor=Run, runProfile=ch12_Decorator.Main
+2026-04-12 20:11:36.906 [INFO] [RunID=1775894682943] Build failure notification flag set
+2026-04-12 20:11:36.906 [INFO] [RunID=1775894682943] Build failure flag set via ExecutionFailureListener
+2026-04-12 20:11:36.906 [INFO] Extracting build error for ch12_Decorator.Main
+2026-04-12 20:11:36.906 [INFO] No specific error found, using default message
+2026-04-12 20:11:36.906 [WARN] Build Failure Detected - executor=Run, runProfile=ch12_Decorator.Main, error=null
+2026-04-12 20:11:36.906 [INFO] [RunID=1775894682943] Build failure notification sent, subsequent test events will be ignored for this run
